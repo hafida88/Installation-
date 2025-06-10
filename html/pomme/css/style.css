@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(174, 219, 174);
+}
+.contener{
+    background-color: white;
+    margin: auto;
+    width: 45%;
+    border: 2px solid rgb(124, 211, 116)     
+}
+nav{
+    background-image: url(../css/img/bg_menu.gif);
+    height: 30px;
+}
+hr{
+    background-color: rgb(122, 233, 122);
+}
+.Etape1{
+    text-align: center;
+    color: white;
+    width: 200px;
+    font-weight: normal;
+    float: left;
+   border-right: 3px solid white
+   
+   
+}
+.Etape1,.Etape2,.Etape2,.Etape3,.Etape4{
+    text-align: center;
+    color: white;
+    width: 200px;
+    font-weight: normal;
+    float: left;
+   border-right: 3px solid white
+   
+   
+}
+.titre{
+    margin-inline-start: 20px;
+    color: green;
+    border-bottom: 2px solid green
+    
+}
+main{
+    margin-inline-start: 20px;
+    
+}
